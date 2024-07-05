@@ -34,7 +34,7 @@
 
 
 
-### Write a detail reson for exiting and click on confirmed account deletion
+### Write a detail reason for exiting and click on confirmed account deletion
 
 
 ![Screenshot_1720010841](https://github.com/Green-Tech-Communications-Networks/prolife-account-deletion/assets/167073094/0cacd37a-d469-485a-9515-b346224e0dbd)
